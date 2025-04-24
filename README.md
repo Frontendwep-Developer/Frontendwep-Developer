@@ -2,13 +2,10 @@
 
 Frontend Developer. I am learning HTML, Css , Java Script, Sass, Bootstrap.
 
-[💼 Portfolio] | [💬 telegram](https://t.me/Dilshodbek) | [✉️ gmail](xolmominovdilshodbek4@gmail.com)
+[💼 Portfolio] | [💬 telegram](https://t.me/Dilshodbek) | [✉️ xolmominovdilshodbek4@gmail.com]
 
 
-
-
-
-<h2>🚀 Languages and Tools I Use</h2>
+## Languages and Tools
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
