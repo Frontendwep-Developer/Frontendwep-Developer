@@ -1,4 +1,4 @@
-## Hi there 👋
+# Xolmo`minov Dilshodbek
 
 <!--
 **Frontendwep-Developer/Frontendwep-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
